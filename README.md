@@ -51,7 +51,7 @@ Execute o programa, fornecendo o nome do ficheiro de entrada e, se necessário, 
 
 ./programa matriz.txt 0 4
 
-###4. Saída
+### 4. Saída
 O programa exibirá:
 
 -Todos os caminhos possíveis entre os vértices de origem e destino (se aplicável).
