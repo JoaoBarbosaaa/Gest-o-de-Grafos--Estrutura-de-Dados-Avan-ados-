@@ -1,4 +1,4 @@
-# Projeto de Grafos para Somatório Máximo
+# Projeto de Grafos
 
 ## Descrição do Projeto
 
